@@ -1,0 +1,15 @@
+{
+    "rajaongkir": {
+        "query": {
+            "id": "12"
+        },
+        "status": {
+            "code": 200,
+            "description": "OK"
+        },
+        "results": {
+           "province_id": "12",
+           "province": "Kalimantan Barat"
+        }
+    }
+}

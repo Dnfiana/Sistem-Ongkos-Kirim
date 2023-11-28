@@ -1,0 +1,20 @@
+{
+    "rajaongkir": {
+        "query": {
+            "province": "5",
+            "id": "39"
+        },
+        "status": {
+            "code": 200,
+            "description": "OK"
+        },
+        "results": {
+           "city_id": "39",
+           "province_id": "5",
+           "province": "DI Yogyakarta",
+           "type": "Kabupaten",
+           "city_name": "Bantul",
+           "postal_code": "55700"
+        }
+    }
+}
